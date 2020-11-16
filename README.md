@@ -22,6 +22,8 @@ operation.py-------------------------------------------DES源码
 
 **task23.py-----------------------------------------------作业**
 
+*.png--------------------------------------------------md所需的图片
+
 **使用说明：```python task23.py```**
 
 ### 2.题目解读以及代码实现
@@ -47,7 +49,7 @@ operation.py-------------------------------------------DES源码
 请输入循环次数（1-100）：10
 ```
 
-<img src="images/inp.png" alt="Image text" style="zoom: 67%;" />
+<img src="inp.png" alt="Image text" style="zoom: 67%;" />
 
 ② 8位的明文、密钥、密文转化为64位的二进制数组
 
@@ -70,10 +72,10 @@ dif=checkBitDif(cipher_bin,str1_bin)
 
 ​	控制台输出：
 
-<img src="images/outp1.png" alt="Image text" style="zoom: 67%;" />
+<img src="outp1.png" alt="Image text" style="zoom: 67%;" />
 
-<img src="images/outp2.png" alt="Image text" style="zoom: 67%;" />
+<img src="outp2.png" alt="Image text" style="zoom: 67%;" />
 
 **.........................(省略部分输出)**
 
-<img src="images/outp3.png" alt="Image text" style="zoom: 67%;" />
+<img src="outp3.png" alt="Image text" style="zoom: 67%;" />
